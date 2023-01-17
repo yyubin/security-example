@@ -9,11 +9,7 @@ Example of using spring security
 * Spring Security
 * H2 database
 * Spring Data JPA
-
-## Reference
-
-https://hooongs.tistory.com/233
-
-This project was created by referring to the blog post.
+* thymeleaf
+* Junit4
 
 
